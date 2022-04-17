@@ -1,0 +1,1 @@
+D:\Project\samples-develop\Windows-IoT-Projects-master\AzureRemoteLight\AzureRemoteLight\AzureRemoteLight.csproj;arm
